@@ -1,0 +1,15 @@
+{
+  "name": "blog-tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fernando L. Canizo <fernandocanizo@gmail.com> (https://github.com/fernandocanizo/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
