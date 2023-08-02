@@ -2,3 +2,8 @@
 layout: layout.html
 ---
 
+<ul>
+{% for post in collections.post %}
+  <li>{{ post.data.title }}</li>
+{% endfor %}
+</ul>
